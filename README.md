@@ -10,8 +10,8 @@
   
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/racquel-nina-dennison-0500b6204/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn--blue" />
+  
+![Linkedin Badge](https://img.shields.io/badge/-racquel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/racquel-nina-dennison-0500b6204/)[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:racquelnina@gmail.com) 
 </a>
   
   
