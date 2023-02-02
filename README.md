@@ -1,10 +1,18 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/13RNlgVcGa3sbu/giphy.gif" width="100"/>
-  <h3 color= "#A66CFF"> Hello! My name is Racquel </h3>
+
+<h4 align="center"><samp> Hi there 🌻 welcome to my Github! I'm a student studying Computer Science 💻 and Mathematics 🧮. I like coding, solving problems and surfing 🏄‍♀️ ☁️ </samp></h4>
+
+<div align="center">
+  <img width="250" src="https://media3.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=ecf05e47j61prkevz6ibt12m3p6lgjulyvqdolpkd5dlo7oa&rid=giphy.gif&ct=s">
+  
 </div>
-<div id="badges">
-  <a href="www.linkedin.com/in/racquel-nina-dennison-0500b6204">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
-  </a>
- 
-</div>
+
+<h5 align="center"><samp> Connect with me 👾<samp></h5>
+  
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/racquel-nina-dennison-0500b6204/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn--blue" />
+</a>
+  
+  
+  </div>
