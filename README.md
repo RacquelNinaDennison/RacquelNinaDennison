@@ -1,5 +1,5 @@
 
-<h4 align="center"><samp> Hi there 🌻 welcome to my Github! I'm a student studying Computer Science 💻 and Mathematics 🧮. I like coding, solving problems and surfing 🏄‍♀️ ☁️ </samp></h4>
+<h4 align="center"><samp> Hi there 🌻 welcome to my Github! I'm a student studying Computer Science 💻 and Mathematics 🧮. I like coding, sleeping, training and running :) </samp></h4>
 
 <div align="center">
   <img width="250" src="https://media3.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=ecf05e47j61prkevz6ibt12m3p6lgjulyvqdolpkd5dlo7oa&rid=giphy.gif&ct=s">
